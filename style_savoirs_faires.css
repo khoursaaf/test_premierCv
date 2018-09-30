@@ -1,0 +1,17 @@
+body{
+  background-color: #39CCCC;
+}
+.cont2{
+    text-align: center;
+}
+.progress{
+  height: 25px;
+  margin-bottom: 30px;
+}
+p{
+  padding-top: 20px;
+}
+#bloc1{
+  margin-top: 5%;
+  text-align: center;
+}
